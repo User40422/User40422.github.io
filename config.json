@@ -1,6 +1,11 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "title":"不知道的博客",
+    "subTitle":"这个人很懒，什么也没有留下",
+    "avatarUrl":"https://img.picui.cn/free/2025/07/02/6864c7023903e.png",
     "GMEEK_VERSION":"last"
+    "homeUrl":"https://blog.bzd422.dpdns.org",
+    "startSite":"07/03/2025",
+    "onePageListNum":15,
+    "i18n":"CN",
+    "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
 }
